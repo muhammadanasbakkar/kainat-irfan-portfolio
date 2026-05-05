@@ -1,0 +1,17 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thesis writing sample">
+  <rect width="600" height="450" fill="#f0e6d2"/>
+  <rect x="80" y="40" width="440" height="370" fill="#faf7f2" stroke="#d8c8a8"/>
+  <text x="100" y="80" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#6b4423" font-weight="600">CHAPTER 03</text>
+  <text x="100" y="115" font-family="Georgia, serif" font-size="26" font-weight="500" fill="#1a1814">Methodology</text>
+  <rect x="100" y="145" width="380" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="160" width="390" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="175" width="370" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="190" width="340" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="220" width="380" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="235" width="360" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="250" width="390" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="265" width="320" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="295" width="380" height="6" fill="#c8b8a0" rx="3"/>
+  <rect x="100" y="310" width="350" height="6" fill="#c8b8a0" rx="3"/>
+  <text x="100" y="380" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#6b4423">Sample · APA 7</text>
+</svg>

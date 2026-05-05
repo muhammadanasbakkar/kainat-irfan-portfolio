@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kainat Naz İrfan — Portfolio
 
-## Getting Started
+Personal portfolio for academic writing and English ↔ Urdu translation services.
 
-First, run the development server:
+## Stack
+
+- Next.js 16 (App Router) + React 19
+- TypeScript
+- Tailwind CSS v4
+- Inter (sans) + Cormorant Garamond (serif) via `next/font/google`
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Editing content
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+All copy lives in [src/lib/site.ts](src/lib/site.ts) — name, bio, services, email, and Fiverr links. Update there and every page reflects the change.
 
-## Learn More
+Pages:
+- [src/app/page.tsx](src/app/page.tsx) — Home
+- [src/app/about/page.tsx](src/app/about/page.tsx) — About
+- [src/app/services/page.tsx](src/app/services/page.tsx) — Services
+- [src/app/contact/page.tsx](src/app/contact/page.tsx) — Contact
 
-To learn more about Next.js, take a look at the following resources:
+Theme colors and fonts: [src/app/globals.css](src/app/globals.css)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploy
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The fastest path is Vercel:
 
-## Deploy on Vercel
+1. Push this folder to a new GitHub repo
+2. Import the repo at [vercel.com/new](https://vercel.com/new)
+3. Accept the defaults — Vercel auto-detects Next.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Custom domain (e.g. `kainatnaz.com`) can be added under Vercel project settings.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Build
+
+```bash
+npm run build
+npm start
+```
