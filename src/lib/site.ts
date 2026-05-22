@@ -72,7 +72,7 @@ export const site = {
         "Careful rewriting that preserves meaning while improving originality — verified against industry-standard similarity checkers.",
     },
     {
-      title: "Proofreading & Editing (APA, Chicago, Harvard, MLA)",
+      title: "Proofreading & Editing",
       description:
         "Precise editing in APA, Chicago, Harvard, MLA, and other styles. Sentence-level polishing for tone, grammar, and academic register.",
     },

@@ -58,8 +58,7 @@ export default function ServicesPage() {
         </h1>
         <p className="mt-6 text-lg leading-relaxed text-muted">
           Academic research and thesis writing, literature reviews, paraphrasing
-          and plagiarism reduction, proofreading in APA / Chicago / Harvard /
-          MLA, and English ↔ Urdu translation. Combine as needed.
+          and plagiarism reduction, References and citations are provided in Chicago, APA, or other required academic styles. Combine as needed.
         </p>
       </header>
 
