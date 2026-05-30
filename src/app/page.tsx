@@ -37,7 +37,7 @@ export default function Home() {
           </h1>
           <p className="mt-8 max-w-xl text-lg leading-relaxed text-muted">
             Psychology graduate offering thesis writing, literature reviews,
-            paraphrasing, and proofreading and research in any reference style — plus
+            paraphrasing, and proofreading and research in any reference style, plus
             English ↔ Urdu translation. {site.tagline}
           </p>
           <div className="mt-10 flex flex-wrap gap-3">

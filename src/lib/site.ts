@@ -59,7 +59,7 @@ export const site = {
     {
       title: "Academic Research & Thesis Writing",
       description:
-        "Full-length research papers, dissertations, and theses developed from outline to final draft — built on rigorous methodology and credible sourcing.",
+        "Full-length research papers, dissertations, and theses developed from outline to final draft built on rigorous methodology and credible sourcing.",
     },
     {
       title: "Literature Review & Annotated Bibliography",
@@ -69,7 +69,7 @@ export const site = {
     {
       title: "Paraphrasing & Plagiarism Reduction",
       description:
-        "Careful rewriting that preserves meaning while improving originality — verified against industry-standard similarity checkers.",
+        "Careful rewriting that preserves meaning while improving originality verified against industry-standard similarity checkers.",
     },
     {
       title: "Proofreading & Editing",
@@ -99,7 +99,7 @@ export const site = {
       step: "03",
       title: "Revise",
       description:
-        "Two rounds of revision included. We refine arguments, tone, and formatting until it reads cleanly.",
+        "Unlimited revisions included. We refine arguments, tone, and formatting until it reads cleanly.",
     },
     {
       step: "04",
